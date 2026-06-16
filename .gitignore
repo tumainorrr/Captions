@@ -1,0 +1,8 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Large models and archives
+*.zip
+model*/

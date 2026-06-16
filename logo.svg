@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4c7aed"/>
+      <stop offset="100%" stop-color="#7fc8ff"/>
+    </linearGradient>
+    <linearGradient id="iconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#d7e8ff" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" ry="96" fill="url(#bgGradient)"/>
+  <path d="M256 120c-44.2 0-80 35.8-80 80v36.8c0 26.2 14.3 50.5 37.3 63.2l10.9 5.8v42c0 8.8 7.2 16 16 16s16-7.2 16-16v-42l10.9-5.8c23-12.7 37.3-37 37.3-63.2V200c0-44.2-35.8-80-80-80zm40 116.8c0 22-14.8 42.8-36.9 49.7l-3.1 0.92V200c0-13.2 10.8-24 24-24s24 10.8 24 24v36.8zM232 128h16v8h-16z" fill="url(#iconGradient)"/>
+  <path d="M340 340c0-64.1-51.9-116-116-116s-116 51.9-116 116H80c0-92.5 75.1-168 168-168s168 75.5 168 168h-76z" fill="#ffffff" opacity="0.12"/>
+  <path d="M176 344c0 26.5 21.5 48 48 48h64c26.5 0 48-21.5 48-48v-16h-32v16c0 8.8-7.2 16-16 16h-64c-8.8 0-16-7.2-16-16v-16h-32v16z" fill="#ffffff" opacity="0.18"/>
+  <circle cx="256" cy="192" r="48" fill="#ffffff"/>
+  <path d="M256 176c-8.8 0-16 7.2-16 16v16c0 8.8 7.2 16 16 16s16-7.2 16-16v-16c0-8.8-7.2-16-16-16zm0 96c-30.9 0-56-25.1-56-56v-8c0-8.8 7.2-16 16-16s16 7.2 16 16v8c0 13.3 10.7 24 24 24s24-10.7 24-24v-8c0-8.8 7.2-16 16-16s16 7.2 16 16v8c0 30.9-25.1 56-56 56z" fill="#4c7aed"/>
+  <path d="M248 232h16v80h-16z" fill="#4c7aed"/>
+  <path d="M200 264h16v48h-16zM296 264h16v48h-16z" fill="#4c7aed"/>
+  <text x="256" y="432" text-anchor="middle" font-family="Leelawadee UI, Arial, sans-serif" font-size="60" fill="#ffffff" font-weight="bold">Translate</text>
+  <text x="256" y="476" text-anchor="middle" font-family="Leelawadee UI, Arial, sans-serif" font-size="24" fill="#e8f2ff">เสียง -> แปล</text>
+</svg>
